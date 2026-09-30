@@ -1,0 +1,2 @@
+.\.venv\Scripts\python.exe main.py X:\Pro\kingsrow-data\games\144_126\game_001.pdn
+.\.venv\Scripts\python.exe .\main.py .\positions\problem_001.txt
